@@ -22,6 +22,8 @@ git clone https://github.com/yourusername/emotion-analyzer.git
 cd emotion-analyzer
 ```
 
+2. Install following libraries
+
 ``` bash
 pip install text2emotion matplotlib nltk
 python emotion_analyzer.py
